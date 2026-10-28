@@ -1,0 +1,426 @@
+{
+  "_nota": "SOLO PROPIEDADES REALES. SAN-013 = Loft Torre Avitare (primera propiedad enviada por la clienta). Coordenadas tomadas del enlace de Google Maps que pasó la clienta (AVITARE / Torre Tempo). Pendiente de confirmar: calle y número, amueblado, mascotas, depósito/aval y plazo mínimo. Los 12 ejemplos de la maqueta están archivados en datos/propiedades-ejemplo.json.",
+  "version": "2026-10-23-avitare",
+  "propiedades": [
+    {
+      "id": "SAN-013",
+      "slug": "loft-torre-avitare-altavista-zapopan",
+      "operacion": "renta",
+      "tipo": "Loft",
+      "titulo": "Loft en Torre Avitare, Zona Altavista",
+      "descripcion": "Vive con comodidad, estilo y espectaculares vistas en este loft ubicado en el piso 7 de Torre Avitare, en una de las zonas con gran conectividad de Zapopan.\n\nUna excelente opción para quienes buscan vivir en un espacio moderno, cómodo y con amenidades increíbles.",
+      "direccion": {
+        "calle": "Torre Avitare",
+        "colonia": "Zona Altavista",
+        "ciudad": "Zapopan",
+        "estado": "Jalisco",
+        "cp": ""
+      },
+      "coords": [
+        20.7649814,
+        -103.40441
+      ],
+      "precio": 14500,
+      "administracion": 0,
+      "area": 50,
+      "recamaras": 1,
+      "banos": 1,
+      "estacionamiento": 1,
+      "elevadores": true,
+      "antiguedad": 0,
+      "remodelado": false,
+      "demo": false,
+      "foto": "img/galeria/avitare/01-avitare-fachada.jpg",
+      "fotos": [
+        {
+          "src": "img/galeria/avitare/01-avitare-fachada.jpg",
+          "etiqueta": "Fachada de Torre Avitare"
+        },
+        {
+          "src": "img/galeria/avitare/02-pasillo.jpg",
+          "etiqueta": "Pasillo del piso"
+        },
+        {
+          "src": "img/galeria/avitare/03-cocina.jpg",
+          "etiqueta": "Cocina integral"
+        },
+        {
+          "src": "img/galeria/avitare/04-sala.jpg",
+          "etiqueta": "Estancia"
+        },
+        {
+          "src": "img/galeria/avitare/05-minisplit.jpg",
+          "etiqueta": "Aire acondicionado en recámara"
+        },
+        {
+          "src": "img/galeria/avitare/06-recamara.jpg",
+          "etiqueta": "Recámara"
+        },
+        {
+          "src": "img/galeria/avitare/07-bano.jpg",
+          "etiqueta": "Baño completo"
+        },
+        {
+          "src": "img/galeria/avitare/08-interior.jpg",
+          "etiqueta": "Interior"
+        },
+        {
+          "src": "img/galeria/avitare/09-cajon-701.jpg",
+          "etiqueta": "Cajón de estacionamiento 701"
+        },
+        {
+          "src": "img/galeria/avitare/10-lobby.jpg",
+          "etiqueta": "Lobby del edificio"
+        },
+        {
+          "src": "img/galeria/avitare/11-alberca.jpg",
+          "etiqueta": "Alberca en azotea"
+        },
+        {
+          "src": "img/galeria/avitare/12-azotea-asadores.jpg",
+          "etiqueta": "Azotea y asadores"
+        },
+        {
+          "src": "img/galeria/avitare/13-salon-amenidades.jpg",
+          "etiqueta": "Salón de amenidades"
+        }
+      ],
+      "pois": {
+        "servicios": [
+          {
+            "nombre": "Plaza La Cima",
+            "min": 5
+          },
+          {
+            "nombre": "Gimnasio Smart Fit",
+            "min": 5
+          },
+          {
+            "nombre": "Bancos y cajeros",
+            "min": 5
+          },
+          {
+            "nombre": "Comida rápida y cafeterías",
+            "min": 5
+          },
+          {
+            "nombre": "Supermercados exprés",
+            "min": 5
+          },
+          {
+            "nombre": "Plaza Real Center",
+            "min": 10
+          }
+        ],
+        "salud": [
+          {
+            "nombre": "Hospital Santa María Chapalita",
+            "min": 10
+          }
+        ]
+      },
+      "destacada": true,
+      "caracteristicas": [
+        "Cocina integral",
+        "Aire acondicionado en sala y recámara",
+        "Cuarto de lavado",
+        "Increíbles vistas de la ciudad"
+      ],
+      "amenidades": [
+        "Alberca panamericana en piso 20 con vista",
+        "Mesa de billar",
+        "Zona de asadores",
+        "Vigilancia 24/7"
+      ],
+      "piso": 7,
+      "elevadoresPorTorre": 2,
+      "mapaUrl": "https://maps.app.goo.gl/CXquFJ5zqALeBuLi6"
+    },
+    {
+      "id": "SAN-014",
+      "slug": "departamento-brune-americana-guadalajara",
+      "operacion": "renta",
+      "tipo": "Departamento",
+      "titulo": "Departamento en Brune, Colonia Americana",
+      "descripcion": "Ubicación privilegiada a solo tres cuadras de Av. Chapultepec. Un espacio moderno, cómodo y listo para habitar, con acabados ideales para tu estilo de vida.",
+      "direccion": {
+        "calle": "Av. La Paz 2168",
+        "colonia": "Americana",
+        "ciudad": "Guadalajara",
+        "estado": "Jalisco",
+        "cp": "44160"
+      },
+      "coords": [
+        20.6723872,
+        -103.3719967
+      ],
+      "precio": 22000,
+      "administracion": 0,
+      "area": 55,
+      "recamaras": 1,
+      "banos": 2,
+      "estacionamiento": 1,
+      "elevadores": true,
+      "antiguedad": 3,
+      "remodelado": false,
+      "demo": false,
+      "piso": 3,
+      "mapaUrl": "https://maps.app.goo.gl/8VTKW4z5EP8F9VqQA",
+      "destacada": true,
+      "foto": "img/galeria/brune/01-fachada.jpeg",
+      "fotos": [
+        {
+          "src": "img/galeria/brune/01-fachada.jpeg",
+          "etiqueta": "Fachada del edificio"
+        },
+        {
+          "src": "img/galeria/brune/02-lobby.jpeg",
+          "etiqueta": "Lobby con recepción"
+        },
+        {
+          "src": "img/galeria/brune/03-vista-colonia.jpeg",
+          "etiqueta": "Vista de la colonia"
+        },
+        {
+          "src": "img/galeria/brune/04-acceso-departamento.jpeg",
+          "etiqueta": "Acceso al departamento"
+        },
+        {
+          "src": "img/galeria/brune/05-sala.jpeg",
+          "etiqueta": "Sala"
+        },
+        {
+          "src": "img/galeria/brune/06-recamara.jpeg",
+          "etiqueta": "Recámara"
+        },
+        {
+          "src": "img/galeria/brune/07-vestidor.jpeg",
+          "etiqueta": "Vestidor"
+        },
+        {
+          "src": "img/galeria/brune/08-cocina.jpeg",
+          "etiqueta": "Cocina integral equipada"
+        },
+        {
+          "src": "img/galeria/brune/09-roof-garden.jpeg",
+          "etiqueta": "Roof garden"
+        },
+        {
+          "src": "img/galeria/brune/10-sala-juegos.jpeg",
+          "etiqueta": "Sala de juegos"
+        },
+        {
+          "src": "img/galeria/brune/11-terraza.jpeg",
+          "etiqueta": "Terraza"
+        },
+        {
+          "src": "img/galeria/brune/12-terraza-vista.jpeg",
+          "etiqueta": "Terraza con vista"
+        },
+        {
+          "src": "img/galeria/brune/13-azotea-ciudad.jpeg",
+          "etiqueta": "Azotea con vista a la ciudad"
+        },
+        {
+          "src": "img/galeria/brune/14-estacionamiento.jpeg",
+          "etiqueta": "Estacionamiento en sótano"
+        },
+        {
+          "src": "img/galeria/brune/15-acceso-edificio.jpeg",
+          "etiqueta": "Acceso del edificio"
+        },
+        {
+          "src": "img/galeria/brune/16-chapultepec.jpeg",
+          "etiqueta": "Chapultepec"
+        },
+        {
+          "src": "img/galeria/brune/17-vista-aerea.jpeg",
+          "etiqueta": "Vista aérea de la avenida"
+        }
+      ],
+      "caracteristicas": [
+        "1 recámara con vestidor y baño completo",
+        "Estudio con librero y escritorio",
+        "2 baños completos",
+        "Cocina integral equipada (refrigerador y microondas)",
+        "Sala y comedor amplios",
+        "Aire acondicionado en sala y recámara",
+        "Área de lavado con lavadora",
+        "Estacionamiento en sótano"
+      ],
+      "amenidades": [
+        "Roof garden",
+        "Jardín y terraza",
+        "Sala de juegos",
+        "Jacuzzi",
+        "Elevador",
+        "Circuito cerrado e ingreso controlado",
+        "Vigilante y conserje",
+        "Pet-friendly"
+      ],
+      "pois": {
+        "servicios": [
+          {
+            "nombre": "Av. Chapultepec",
+            "min": 3
+          },
+          {
+            "nombre": "Cafés y restaurantes",
+            "min": 5
+          },
+          {
+            "nombre": "Supermercados",
+            "min": 5
+          },
+          {
+            "nombre": "Farmacias",
+            "min": 5
+          }
+        ],
+        "salud": [
+          {
+            "nombre": "Hospitales y clínicas",
+            "min": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAN-015",
+      "slug": "departamento-ferrara-vertical-arenales-tapatios",
+      "operacion": "venta",
+      "tipo": "Departamento",
+      "titulo": "Departamento en Ferrara Vertical, Torre Génova",
+      "descripcion": "Torre Génova, nivel 14 con vista a la ciudad. Amueblado y equipado, domótica en todo el departamento y amenidades de primer nivel dentro del coto.",
+      "direccion": {
+        "calle": "Francisco I. Madero 2345",
+        "colonia": "Arenales Tapatíos",
+        "ciudad": "Zapopan",
+        "estado": "Jalisco",
+        "cp": "45066"
+      },
+      "coords": [
+        20.6308267,
+        -103.4550818
+      ],
+      "precio": 2090000,
+      "administracion": 0,
+      "area": 43,
+      "recamaras": 1,
+      "banos": 1,
+      "estacionamiento": 1,
+      "elevadores": true,
+      "piso": 14,
+      "mapaUrl": "https://maps.app.goo.gl/wx7JXnjKCHFoFnUh7",
+      "destacada": true,
+      "demo": false,
+      "foto": "img/galeria/ferrara/01-fachada.jpeg",
+      "fotos": [
+        {
+          "src": "img/galeria/ferrara/01-fachada.jpeg",
+          "etiqueta": "Fachada del edificio"
+        },
+        {
+          "src": "img/galeria/ferrara/02-sala.jpeg",
+          "etiqueta": "Sala"
+        },
+        {
+          "src": "img/galeria/ferrara/03-cocina.jpeg",
+          "etiqueta": "Cocina integral"
+        },
+        {
+          "src": "img/galeria/ferrara/04-comedor.jpeg",
+          "etiqueta": "Comedor con vista"
+        },
+        {
+          "src": "img/galeria/ferrara/05-recamara.jpeg",
+          "etiqueta": "Recámara"
+        },
+        {
+          "src": "img/galeria/ferrara/06-bano.jpeg",
+          "etiqueta": "Baño completo"
+        },
+        {
+          "src": "img/galeria/ferrara/07-elevador.jpeg",
+          "etiqueta": "Elevador"
+        },
+        {
+          "src": "img/galeria/ferrara/08-coworking.jpeg",
+          "etiqueta": "Coworking"
+        },
+        {
+          "src": "img/galeria/ferrara/09-lounge.jpeg",
+          "etiqueta": "Lounge"
+        },
+        {
+          "src": "img/galeria/ferrara/10-area-infantil.jpeg",
+          "etiqueta": "Área infantil"
+        },
+        {
+          "src": "img/galeria/ferrara/11-asadores.jpeg",
+          "etiqueta": "Asadores"
+        },
+        {
+          "src": "img/galeria/ferrara/12-pet-park.jpeg",
+          "etiqueta": "Pet park"
+        },
+        {
+          "src": "img/galeria/ferrara/13-areas-verdes.jpeg",
+          "etiqueta": "Áreas verdes"
+        },
+        {
+          "src": "img/galeria/ferrara/14-alberca.jpeg",
+          "etiqueta": "Alberca con chapoteadero"
+        }
+      ],
+      "caracteristicas": [
+        "Amueblado y equipado (también disponible sin muebles)",
+        "Cocina integral con barra de granito y bancos",
+        "Refrigerador, microondas y centro de lavado",
+        "Pantalla 55\" y sofá cama",
+        "Domótica en todo el departamento",
+        "Ventiladores de techo y cooler en recámara",
+        "Cerradura inteligente"
+      ],
+      "amenidades": [
+        "Coworking",
+        "Gimnasio",
+        "Asadores",
+        "Pet park",
+        "Áreas verdes",
+        "Cancha deportiva",
+        "Terraza",
+        "Área infantil con chapoteadero",
+        "Alberca",
+        "Seguridad 24/7 y acceso controlado",
+        "Elevador",
+        "Coto cerrado"
+      ],
+      "pois": {
+        "servicios": [
+          {
+            "nombre": "Supermercados",
+            "min": 5
+          },
+          {
+            "nombre": "Farmacias",
+            "min": 5
+          }
+        ],
+        "parques": [
+          {
+            "nombre": "Áreas verdes del coto",
+            "min": 1
+          }
+        ],
+        "colegios": [
+          {
+            "nombre": "Escuelas y colegios",
+            "min": 10
+          }
+        ]
+      },
+      "antiguedad": 3
+    }
+  ]
+}
